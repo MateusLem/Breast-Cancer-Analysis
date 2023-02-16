@@ -21,7 +21,7 @@ The project consists on 4 stages
 ## More information about his project:
 ### Tecnologies 🛠️
 * Used tools for this project:
-    - [Jupyter](https://jupyter.org) || [Google Colab](https://colab.research.google.com)
+    - [Jupyter](https://jupyter.org) || [Python](https://www.python.org) || [Google Colab](https://colab.research.google.com)
 
 ### Latest-Update
 * Feb/15/2023
@@ -54,7 +54,7 @@ O projeto consiste de 4 etapas
 ## Mais informações sobre este projeto:
 ### Tecnologias 🛠️
 * Ferramentas utilizadas para este projeto:
-    - [Jupyter](https://jupyter.org) || [Google Colab](https://colab.research.google.com)
+    - [Jupyter](https://jupyter.org) || [Python](https://www.python.org) || [Google Colab](https://colab.research.google.com)
 
 ### Últimas atualizações 
 * 15/02/2023
